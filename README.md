@@ -1,4 +1,4 @@
-# Kizuna-travel
+# Kizuna travel
 Travel beyond the ordinary
 Kizuna travel is a fictional travel agency specialising in tailored-made journeys across Asia.
 
