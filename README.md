@@ -6,10 +6,10 @@ Kizuna travel is a fictional travel agency specialising in tailored-made journey
 The website wants to inspire young travellers to discover Asian countries and cultures.
 
 ## Destinations
-Japan
-South Korea
-Thailand
-China
+- Japan
+- South Korea
+- Thailand
+- China
 
 ### Author/Owner (da rivedere!)
 Veronica Tafner
