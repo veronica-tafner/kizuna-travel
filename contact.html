@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Contact | Kizuna Travel</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+
+        <h1>Kizuna Travel</h1>
+
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="destinations.html">Destinations</a>
+            <a href="about.html">About Us</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+
+    </header>
+
+
+    <main>
+
+        <section class="hero">
+
+            <h2 class="hero-title">Plan Your Journey</h2>
+
+            <p>
+                Tell us about your dream trip and let us help you create
+                your perfect journey across Asia.
+            </p>
+
+        </section>
+
+
+        <section class="contact">
+
+            <h2>Request Information</h2>
+
+            <form id="contact-form">
+
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+
+                <label for="destination">Destination:</label>
+
+                <select id="destination" name="destination" required>
+
+                    <option value="">Choose a destination</option>
+                    <option value="japan">Japan</option>
+                    <option value="south-korea">South Korea</option>
+                    <option value="china">China</option>
+                    <option value="thailand">Thailand</option>
+
+                </select>
+
+
+                <label for="message">Tell us about your trip:</label>
+
+                <textarea id="message" name="message" rows="6"></textarea>
+
+
+                <button type="submit">Send Request</button>
+
+            </form>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+
+        <p>© 2026 Kizuna Travel. All rights reserved.</p>
+
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
